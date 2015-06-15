@@ -144,6 +144,16 @@ Bower is better for us ATM.
 
 ---
 
+## Live Demos
+
+<br/>
+<br/>
+<br/>
+
+This might go awfully wrong
+
+---
+
 ## Registries
 
 * [bower/registry](https://github.com/bower/registry)
