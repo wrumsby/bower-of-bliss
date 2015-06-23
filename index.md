@@ -128,6 +128,7 @@ you _need_ to put them in a registry.
 * ["shrinkwrap"](https://github.com/bower/bower/pull/1748) (soon?)
 * `bower info <package>`
 * `bower list`
+* dist vs. source
 
 ---
 
